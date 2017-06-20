@@ -42,6 +42,6 @@
 
 ### More pictures
 
-![test](pic1.png)
-![test](pic2.png)
-![test](pic3.png)
+![test](pic1.PNG)
+![test](pic2.PNG)
+![test](pic3.PNG)
